@@ -18,4 +18,9 @@ let name = prompt("Enter a name: ");
 // function call
 greet();
 
-//p
+
+
+//Comment Your JavaScript Code
+
+/* This is a
+multi-line comment */
